@@ -16,5 +16,4 @@ Want to contribute? Fork the repo, make your changes, and submit a pull request.
 
 👉 **Visit [Tomo Inc.](https://tomo.inc/) for more information.**  
 
----
 
